@@ -1,0 +1,5 @@
+Syntax SQL
+7A
+-	Select books.name from books;
+-	select categories.name_categories, books.name, books.stok from categories left join books on categories.id_categories = books.id_categories;
+-	select books.id_books, books.name, books.stok, books.deskripsi, categories.name_categories from books  inner join categories on books.id_categories=categories.id_categories where id_books=11;
