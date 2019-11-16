@@ -1,4 +1,4 @@
 # fileTest
 Menggunakan bahasa pemrograman c++ 
-aplikasi Borlan 
-Syntax SQL
+Yang di jalankan di aplikasi Borlan 
+Serta Syntax SQL
