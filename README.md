@@ -1,2 +1,4 @@
 # fileTest
-Menggunakan bahasa pemrograman c++ dengan aplikasi Borland dan SQL
+Menggunakan bahasa pemrograman c++ 
+aplikasi Borlan 
+Syntax SQL
